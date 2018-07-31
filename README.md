@@ -65,3 +65,7 @@ We have choosen 3 questions to answer bussiness needs by doing modelling with da
 * https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda
 * https://pythonspot.com
 * https://pandas.pydata.org/
+
+## Blog Link
+
+https://medium.com/@karthiktsaliki/automated-way-for-predicting-price-of-products-414f70df2b8a
