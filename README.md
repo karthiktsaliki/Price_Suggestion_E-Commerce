@@ -3,6 +3,10 @@
 
 In this project I am dealing with the data provided by Mercarri e-commerce company, which is mainly operated in japan. The problem here is I have to predict the prices of the products which have been provided by Mercarri.  This project follows CRISP-DM architectecture and also satisfies PEP-8 Convention.
 
+## Github Link
+
+https://github.com/karthiktsaliki/Price_Suggestion_E-Commerce
+
 ## Libraries used
 
 * scipy and numpy: SciPy and Numpy are free and open-source Python library used for scientific computing and technical computing.
